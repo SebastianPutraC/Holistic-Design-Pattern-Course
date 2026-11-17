@@ -1,7 +1,0 @@
-2.3 :
-- Change the bool isWalking animation for both Kate and Skeg to Trigger
-- On the transition between walking to idle, remove the condition and set true to HasExitTime
-- ApplyRootMotion for Kate to be active. This way the animation is doing the movement instead of codes
-
-2.4 :
-- Use the new KateReverse for Kate and SkegReverse for Skeg. This added reverse animation to be used for replay
